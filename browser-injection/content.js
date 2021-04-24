@@ -28,4 +28,4 @@ function present() {
 }
 present();
 
-console.log('Check weather the sript was injected successfully:'+s)
+console.log('Check whether the sript was injected successfully:'+s)
