@@ -1,0 +1,11 @@
+GPGPU:
+CPU 3.2%->129%
+GPU memoy to 80M->140M
+Pwr:Usage/Cap 8W -> 40W /160W
+
+pixel:
+CPU 3.2%->5.3%
+No memory affect
+Pwr:Usage/Cap 8W -> 13W /160W
+
+
